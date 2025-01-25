@@ -7,7 +7,7 @@ This is a small Audio Framework for general Sound & Music integration for Unity 
 * Safe Play with no audio retriggering
 * Safe Stop with Fade Out
 * Music class with multiple audio layers and mixer integration
-* Safe Round Robin Audio Selection that never selects the same sample twice in a row
+* Safe Round Robin Audio Selection (never selects the same sample twice in a row)
 * Volume Slider
 
 ### License
